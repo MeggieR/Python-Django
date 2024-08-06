@@ -1,2 +1,2 @@
-README file
 Python Django webstore
+Named Puddle
